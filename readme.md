@@ -4,8 +4,8 @@ The original input shapefile **(SouthGeorgiaBound.shp)** was converted to geojso
 
 |File Name|Size (KB)|Description|
 |:---|:---:|:---:|
-|SouthGeorgiaBounds.shp|8 KB|Shapefile buffering South Georgia Island|
-|SouthGeorgiaBoundsGeojson.json|3 KB|Geojson of original South Georgia Island shapefile|
-|SouthGeorgiaBoundsTopojson|1 KB|Topojson of South Georgia Island Geojson|
+|SouthGeorgiaBoundsWGS84Geojson|3 KB|Geojson of buffered boundary around South Georgia Island, WGS84|
+|SouthGeorgiaBoundsWGS84SimplifiedGeojson.json|2 KB|Simplified geojson of original South Georgia Island geojson, WGS84|
+|SouthGeorgiaBoundsWGS84SimplifiedTopojson|1 KB|Topojson of simplified South Georgia Island geojson, WGS84|
 
 
