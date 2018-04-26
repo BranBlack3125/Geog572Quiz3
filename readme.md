@@ -1,5 +1,3 @@
-#Please note:
-
 **Projection: WGS84**
 
 |File Name|Size (KB)|Description|
